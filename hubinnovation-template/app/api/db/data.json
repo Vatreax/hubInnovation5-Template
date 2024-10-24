@@ -17,5 +17,21 @@
     "senha": "adimn",
     "id": 2,
     "passwords": []
+  },
+  {
+    "usuario": "Tafarel",
+    "senha": "123",
+    "id": 3,
+    "passwords": []
+  },
+  {
+    "usuario": "Tafarel",
+    "id": 4,
+    "passwords": []
+  },
+  {
+    "senha": "admin",
+    "id": 5,
+    "passwords": []
   }
 ]
